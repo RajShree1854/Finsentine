@@ -1,4 +1,4 @@
-# Real-Time Fraud Detection System
+# FinSentine - Real-Time Transaction Intelligence
 
 A scalable, distributed real-time fraud detection system SaaS built with Apache Kafka, Apache Flink, PostgreSQL, and Streamlit. The system processes transaction streams from multiple banks, applies fraud detection rules, and provides real-time monitoring through an interactive dashboard.
 
